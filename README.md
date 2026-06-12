@@ -15,4 +15,4 @@ python3 gofile_fetch.py "https://gofile.io/d/FOLDER_ID" -d ./output
 
 **Options:** `--limit N`, `--headed`, `--save-manifest path.json`
 
-Session cookie is obtained automatically with playwright. Completed files are skipped; partial files resume.
+Session cookie and files URL list are obtained automatically with playwright (i love playwright ❤️). Completed files are skipped; partial files resume.
