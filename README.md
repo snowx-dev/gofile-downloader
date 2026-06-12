@@ -1,6 +1,7 @@
 # Gofile batch downloader
 
-🤖 Vibe coded but works fine ✔️
+🤖 Vibe coded  
+✔️ Battle tested
 
 Single script: browser session → file list + cookie → downloads.
 
